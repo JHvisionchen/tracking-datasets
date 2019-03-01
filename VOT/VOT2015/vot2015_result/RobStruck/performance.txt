@@ -1,0 +1,8 @@
+reading=0.0078758
+convolution_native=1.219
+convolution_matlab=0.067977
+nonlinear_native=1.1742
+matlab_startup=4.3292
+platform=MACI64
+platform_maxsize=281474976710655
+platform_endian=L

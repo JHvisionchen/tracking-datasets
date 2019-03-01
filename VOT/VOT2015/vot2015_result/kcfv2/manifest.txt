@@ -1,0 +1,9 @@
+toolkit.version=3.0
+tracker.identifier=KCFv2
+tracker.protocol=file
+timestamp=2015-08-23 16:13:56
+platform=PCWIN64
+platform.maxsize=281474976710655.000000
+platform.endian=L
+environment=matlab
+environment.version=8.3.0.532 (R2014a)

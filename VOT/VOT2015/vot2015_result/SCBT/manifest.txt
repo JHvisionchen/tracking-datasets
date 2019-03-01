@@ -1,0 +1,9 @@
+toolkit.version=3.0
+tracker.identifier=SCBT
+tracker.protocol=file
+timestamp=2015-09-10 12:39:26
+platfrom=PCWIN64
+platfrom.maxsize=281474976710655.000000
+platfrom.endian=L
+environment=matlab
+environment.version=7.14.0.739 (R2012a)

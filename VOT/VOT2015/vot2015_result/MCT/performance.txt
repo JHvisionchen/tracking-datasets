@@ -1,0 +1,7 @@
+reading=0.014763
+convolution_native=0.98464
+convolution_matlab=0.2708
+nonlinear_native=0.69571
+platform=i686-pc-linux-gnu
+platform_maxsize=2147483647
+platform_endian=L

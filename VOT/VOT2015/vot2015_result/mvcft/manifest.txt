@@ -1,0 +1,9 @@
+toolkit.version=3.0
+tracker.identifier=MvCFT
+tracker.protocol=file
+timestamp=2015-09-01 21:35:48
+platfrom=PCWIN64
+platfrom.maxsize=281474976710655.000000
+platfrom.endian=L
+environment=matlab
+environment.version=8.3.0.532 (R2014a)

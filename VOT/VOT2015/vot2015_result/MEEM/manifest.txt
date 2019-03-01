@@ -1,0 +1,9 @@
+toolkit.version=3.0
+tracker.identifier=MEEM
+tracker.protocol=file
+timestamp=2015-10-05 09:34:41
+platform=GLNXA64
+platform.maxsize=281474976710655.000000
+platform.endian=L
+environment=matlab
+environment.version=8.6.0.267246 (R2015b)

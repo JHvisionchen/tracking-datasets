@@ -1,0 +1,9 @@
+toolkit.version=3.0
+tracker.identifier=EBT
+tracker.protocol=file
+timestamp=2015-09-07 10:08:47
+platfrom=PCWIN
+platfrom.maxsize=2147483647.000000
+platfrom.endian=L
+environment=matlab
+environment.version=8.0.0.783 (R2012b)

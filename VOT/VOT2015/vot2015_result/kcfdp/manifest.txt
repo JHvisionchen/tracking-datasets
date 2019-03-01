@@ -1,0 +1,9 @@
+toolkit.version=3.0
+tracker.identifier=kcfdp
+tracker.protocol=trax
+timestamp=2015-09-05 16:13:59
+platfrom=PCWIN64
+platfrom.maxsize=281474976710655.000000
+platfrom.endian=L
+environment=matlab
+environment.version=8.3.0.532 (R2014a)

@@ -1,0 +1,9 @@
+toolkit.version=3.0
+tracker.identifier=GGT
+tracker.protocol=trax
+timestamp=2015-09-06 12:19:37
+platfrom=PCWIN64
+platfrom.maxsize=281474976710655.000000
+platfrom.endian=L
+environment=matlab
+environment.version=8.1.0.604 (R2013a)
